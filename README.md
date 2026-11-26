@@ -1,52 +1,72 @@
-## Hi there 👋
-<h2 data-importer="text" align="left">Olá, meu nome é Nicholas</h2>
+<div align="center">
 
-###
+💜 Olá! Eu sou um Dev apaixonado por tecnologia
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Nicholas-JS32T/Nicholas-JS32T/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Nicholas-JS32T/Nicholas-JS32T/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Welcome%20to%20my%20profile!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+🎮 TI • Tecnologia • Games • Desenvolvimento
+
+"Transformando café em código e ideias em projetos."
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Apaixonado+por+tecnologia+%F0%9F%92%BB;Genshin+Impact+%E2%9C%A8;GTA+VI+%F0%9F%8E%AE)
+
 </div>
 
-###
+👨‍💻 Sobre mim
+💻 Sou da área de Tecnologia da Informação (TI).
+🚀 Gosto de tecnologia, inovação e desenvolvimento.
+🎮 Gamer nas horas vagas.
+✨ Fã de Genshin Impact.
+🌴 Ansioso por GTA VI.
+💜 Minha cor favorita é roxo.
+📚 Sempre buscando aprender coisas novas e evoluir.
+🎮 Meus universos favoritos
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
 
-###
+<a href="https://genshin.hoyoverse.com/">
+<img src="https://img.shields.io/badge/Genshin_Impact-9B59B6?style=for-the-badge&logo=gamepad&logoColor=white"/>
+</a>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<a href="https://www.rockstargames.com/VI">
+<img src="https://img.shields.io/badge/GTA_VI-8A2BE2?style=for-the-badge&logo=rockstargames&logoColor=white"/>
+</a>
+
 </div>
 
-###
+🛠️ Tecnologias e ferramentas
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,linux&theme=dark" />
+
 </div>
 
-###
+📊 Meu GitHub
 
-<br clear="both">
+<div align="center">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Nicholas-JS32T/Nicholas-JS32T/snake-output/snake.svg" alt="Snake animation" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
 
-###
-<!--
-**Nicholas-JS32T/Nicholas-JS32T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true"/>
 
-Here are some ideas to get you started:
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=midnight-purple&hide_border=true" width="60%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+🌌 Um pouco de personalidade
+
+<div align="center">
+
+💜	Minha vibe
+🎮	Gamer
+💻	Tecnologia
+🚀	Sempre evoluindo
+✨	Genshin Impact
+🌴	GTA VI
+
+"Code, Play, Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" width="100%"/>
+
+</div>
