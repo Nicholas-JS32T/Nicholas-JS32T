@@ -16,7 +16,7 @@
 💻 Sou da área de Tecnologia da Informação (TI).
 🚀 Gosto de tecnologia, inovação e desenvolvimento.
 🎮 Gamer nas horas vagas.
-✨ Fã de Genshin Impact.
+
 🌴 Ansioso por GTA VI.
 💜 Minha cor favorita é roxo.
 📚 Sempre buscando aprender coisas novas e evoluir.
